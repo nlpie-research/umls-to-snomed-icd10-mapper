@@ -1,4 +1,4 @@
-# UMLS to SNOMED CT and ICD-10 Mapping Tool
+# UMLS to SNOMED CT and ICD-10 Mapper
 
 This Python script maps UMLS codes to SNOMED CT and ICD-10 codes using the UMLS Metathesaurus. The program generates JSON files containing the mappings based on one of the following methods: exact match (``EXACT``), broad relations (``RO``), or parent-child hierarchy relations (``PAR_CHD``). The output will consist of two JSON files for each method, one for SNOMED CT mappings and another for ICD-10 mappings.
 
