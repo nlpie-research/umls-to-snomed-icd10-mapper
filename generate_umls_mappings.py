@@ -5,7 +5,7 @@ from collections import defaultdict
 from typing import Dict, List, Tuple
 
 # Constants
-UMLS_KB_PATH = "/home/engs2263/Desktop/"
+UMLS_KB_PATH = "/path/to/your/directory/"
 MRCONSO_FILE = os.path.join(UMLS_KB_PATH, "MRCONSO.RRF")
 MRREL_FILE = os.path.join(UMLS_KB_PATH, "MRREL.RRF")
 
