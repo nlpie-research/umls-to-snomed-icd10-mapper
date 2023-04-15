@@ -29,7 +29,3 @@ method = "RO"  # Choose method: "RO", "PAR_CHD", or "EXACT"
 ```
 
 The script will generate two JSON files for the specified method. For example, if you choose the ``EXACT`` method, the output files will be named ``cui_to_snomed_EXACT.json`` and ``cui_to_icd10_EXACT.json``.
-
-## Questions and Support
-
-For questions or support, please [send an email](mailto:info@nlpie.com "Contact us") to the NLPie team.
